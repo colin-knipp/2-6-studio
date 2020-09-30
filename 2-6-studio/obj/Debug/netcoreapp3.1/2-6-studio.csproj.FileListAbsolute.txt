@@ -1,0 +1,13 @@
+C:\Users\colin\Documents\GitHub\csharp-practice\Chapter 1\2-6-studio\2-6-studio\bin\Debug\netcoreapp3.1\2-6-studio.exe
+C:\Users\colin\Documents\GitHub\csharp-practice\Chapter 1\2-6-studio\2-6-studio\bin\Debug\netcoreapp3.1\2-6-studio.deps.json
+C:\Users\colin\Documents\GitHub\csharp-practice\Chapter 1\2-6-studio\2-6-studio\bin\Debug\netcoreapp3.1\2-6-studio.runtimeconfig.json
+C:\Users\colin\Documents\GitHub\csharp-practice\Chapter 1\2-6-studio\2-6-studio\bin\Debug\netcoreapp3.1\2-6-studio.runtimeconfig.dev.json
+C:\Users\colin\Documents\GitHub\csharp-practice\Chapter 1\2-6-studio\2-6-studio\bin\Debug\netcoreapp3.1\2-6-studio.dll
+C:\Users\colin\Documents\GitHub\csharp-practice\Chapter 1\2-6-studio\2-6-studio\bin\Debug\netcoreapp3.1\2-6-studio.pdb
+C:\Users\colin\Documents\GitHub\csharp-practice\Chapter 1\2-6-studio\2-6-studio\obj\Debug\netcoreapp3.1\2-6-studio.csprojAssemblyReference.cache
+C:\Users\colin\Documents\GitHub\csharp-practice\Chapter 1\2-6-studio\2-6-studio\obj\Debug\netcoreapp3.1\2-6-studio.AssemblyInfoInputs.cache
+C:\Users\colin\Documents\GitHub\csharp-practice\Chapter 1\2-6-studio\2-6-studio\obj\Debug\netcoreapp3.1\2-6-studio.AssemblyInfo.cs
+C:\Users\colin\Documents\GitHub\csharp-practice\Chapter 1\2-6-studio\2-6-studio\obj\Debug\netcoreapp3.1\2-6-studio.csproj.CoreCompileInputs.cache
+C:\Users\colin\Documents\GitHub\csharp-practice\Chapter 1\2-6-studio\2-6-studio\obj\Debug\netcoreapp3.1\2-6-studio.dll
+C:\Users\colin\Documents\GitHub\csharp-practice\Chapter 1\2-6-studio\2-6-studio\obj\Debug\netcoreapp3.1\2-6-studio.pdb
+C:\Users\colin\Documents\GitHub\csharp-practice\Chapter 1\2-6-studio\2-6-studio\obj\Debug\netcoreapp3.1\2-6-studio.genruntimeconfig.cache
